@@ -19,10 +19,15 @@ Dashboard created using **Python (Dash + Pandas)** for backend, **MySQL** for da
 - Power BI  
 - CSV for data export
 
+
+
+Author  Arya Chahankar 
+GitHub: chahankar-arya04
+
 ## How to Run Locally
 
 ```bash
-# Clone this repo
+Clone this repo
 git clone https://github.com/chahankar-arya04/RBI.git
 cd RBI
 
@@ -31,3 +36,10 @@ cd RBI
 # And the tables monetary_indicators & cyber_frauds are populated
 
 python rbi_dashboard.py
+
+
+
+Author
+
+Chahankar Arya
+GitHub: chahankar-arya04
